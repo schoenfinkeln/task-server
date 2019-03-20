@@ -1,0 +1,56 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "task": "Der erste Eintrag"
+    },
+    {
+      "task": "Das ist als zweites zu tun",
+      "id": 1
+    },
+    {
+      "task": "Das hier muss als drittes getan werden",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "task": "Man kann auch Emojis zeigen 🎉"
+    },
+    {
+      "task": "Etwas sehr wichtiges",
+      "id": 4
+    },
+    {
+      "task": "Sollte auch getan werden",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "task": "Steht hier nur als Platzhalter"
+    },
+    {
+      "task": "Wichtige Aufgabe",
+      "id": 7
+    },
+    {
+      "task": "React lernen",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "task": "Redux verstehen"
+    },
+    {
+      "task": "NodeJS lieben lernen ❤",
+      "id": 10
+    },
+    {
+      "task": "JavaScript nur noch in ES6",
+      "id": 11
+    },
+    {
+      "task": "TypeScript verwenden",
+      "id": 12
+    }
+  ]
+}
