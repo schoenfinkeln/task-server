@@ -47,10 +47,204 @@
     {
       "task": "JavaScript nur noch in ES6",
       "id": 11
+    }
+  ],
+  "searchData": [
+    {
+      "id": 1,
+      "name": "Heinrik Gratrex",
+      "task": "at ipsum ac tellus semper interdum",
+      "category": "FUTURE",
+      "created": "2018-04-03T15:22:15Z"
     },
     {
-      "task": "TypeScript verwenden",
-      "id": 12
+      "id": 2,
+      "name": "Blondell Grestye",
+      "task": "augue aliquam erat volutpat in congue",
+      "category": "BLOCKER",
+      "created": "2018-11-28T06:32:10Z"
+    },
+    {
+      "id": 3,
+      "name": "Silvie Bungey",
+      "task": "porttitor pede justo",
+      "category": "DEFAULT",
+      "created": "2018-12-05T07:24:28Z"
+    },
+    {
+      "id": 4,
+      "name": "Mohandas Edgington",
+      "task": "tempus vivamus in felis",
+      "category": "NICE_TO_HAVE",
+      "created": "2018-09-03T09:06:58Z"
+    },
+    {
+      "id": 5,
+      "name": "Julie Eversfield",
+      "task": "in faucibus orci luctus",
+      "category": "NICE_TO_HAVE",
+      "created": "2018-10-30T06:55:49Z"
+    },
+    {
+      "id": 6,
+      "name": "Alexei Drewry",
+      "task": "lacus purus aliquet at feugiat non",
+      "category": "FUTURE",
+      "created": "2018-07-12T20:25:15Z"
+    },
+    {
+      "id": 7,
+      "name": "Gustave Snary",
+      "task": "sed vel enim",
+      "category": "DEFAULT",
+      "created": "2019-03-05T21:35:36Z"
+    },
+    {
+      "id": 8,
+      "name": "Pauli Barnewell",
+      "task": "nibh in hac habitasse",
+      "category": "NICE_TO_HAVE",
+      "created": "2019-03-03T19:03:49Z"
+    },
+    {
+      "id": 9,
+      "name": "Nealon Fetters",
+      "task": "congue vivamus metus arcu adipiscing",
+      "category": "DEFAULT",
+      "created": "2018-07-02T14:44:30Z"
+    },
+    {
+      "id": 10,
+      "name": "Honey Veregan",
+      "task": "sed accumsan felis ut at",
+      "category": "NICE_TO_HAVE",
+      "created": "2018-05-27T07:39:53Z"
+    },
+    {
+      "id": 11,
+      "name": "Holt Hellyer",
+      "task": "consequat nulla nisl nunc nisl duis",
+      "category": "IMPORTANT",
+      "created": "2018-09-04T14:23:18Z"
+    },
+    {
+      "id": 12,
+      "name": "Kiah Bleiman",
+      "task": "magna at nunc",
+      "category": "FUTURE",
+      "created": "2018-04-14T19:36:42Z"
+    },
+    {
+      "id": 13,
+      "name": "Patricia Gavigan",
+      "task": "eget rutrum at lorem integer",
+      "category": "NICE_TO_HAVE",
+      "created": "2018-04-07T18:34:25Z"
+    },
+    {
+      "id": 14,
+      "name": "Pinchas Lanchberry",
+      "task": "amet consectetuer adipiscing elit",
+      "category": "BLOCKER",
+      "created": "2018-07-17T17:30:44Z"
+    },
+    {
+      "id": 15,
+      "name": "Theodora Tunnadine",
+      "task": "scelerisque quam turpis adipiscing lorem vitae",
+      "category": "IMPORTANT",
+      "created": "2018-08-11T18:11:10Z"
+    },
+    {
+      "id": 16,
+      "name": "Valerye Pieroni",
+      "task": "proin at turpis",
+      "category": "IMPORTANT",
+      "created": "2019-01-24T01:19:24Z"
+    },
+    {
+      "id": 17,
+      "name": "Moselle Frayling",
+      "task": "fusce consequat nulla",
+      "category": "DEFAULT",
+      "created": "2018-06-17T11:25:21Z"
+    },
+    {
+      "id": 18,
+      "name": "Findley Sigert",
+      "task": "augue aliquam erat volutpat in congue",
+      "category": "FUTURE",
+      "created": "2018-11-18T05:52:16Z"
+    },
+    {
+      "id": 19,
+      "name": "Delano Eccott",
+      "task": "massa id lobortis",
+      "category": "DEFAULT",
+      "created": "2018-08-24T22:37:17Z"
+    },
+    {
+      "id": 20,
+      "name": "Danyette McGee",
+      "task": "sit amet nulla",
+      "category": "NICE_TO_HAVE",
+      "created": "2018-08-11T00:24:17Z"
+    },
+    {
+      "id": 21,
+      "name": "Aloise Cheevers",
+      "task": "nisi venenatis tristique",
+      "category": "IMPORTANT",
+      "created": "2019-03-01T16:36:00Z"
+    },
+    {
+      "id": 22,
+      "name": "Glennie Littlefield",
+      "task": "mus vivamus vestibulum sagittis sapien",
+      "category": "BLOCKER",
+      "created": "2018-08-13T17:06:33Z"
+    },
+    {
+      "id": 23,
+      "name": "Kyle Bourdis",
+      "task": "lorem quisque ut",
+      "category": "FUTURE",
+      "created": "2018-06-15T20:50:26Z"
+    },
+    {
+      "id": 24,
+      "name": "Shara Jurasz",
+      "task": "non mi integer ac neque duis",
+      "category": "FUTURE",
+      "created": "2019-01-19T15:35:43Z"
+    },
+    {
+      "id": 25,
+      "name": "Nicolette Treacher",
+      "task": "ultrices vel augue",
+      "category": "IMPORTANT",
+      "created": "2018-08-16T00:00:30Z"
+    },
+    {
+      "id": 26,
+      "name": "Gizela Corrington",
+      "task": "vestibulum eget vulputate ut",
+      "category": "NICE_TO_HAVE",
+      "created": "2018-07-13T13:59:02Z"
+    },
+    {
+      "id": 27,
+      "name": "Constancia Offield",
+      "task": "consectetuer adipiscing elit",
+      "category": "BLOCKER",
+      "created": "2018-10-02T20:25:31Z"
+    },
+    {
+      "id": 28,
+      "name": "Kaylil Loughren",
+      "task": "id turpis integer",
+      "category": "FUTURE",
+      "created": "2018-09-24T10:38:19Z"
     }
   ]
 }
